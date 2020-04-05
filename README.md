@@ -2,8 +2,8 @@
 This repository contains all the information and designs for prototyping sterilization box for recycling face masks.
 
 # Latest design:
+![GIF](https://github.com/gitakshaygupta/COVID-19-Mask-Recycling/blob/master/Images/Design.gif)
 ![New Design](https://github.com/gitakshaygupta/COVID-19-Mask-Recycling/blob/master/Images/New%20Design.JPG)
-
 ![New Design](https://github.com/gitakshaygupta/COVID-19-Mask-Recycling/blob/master/Images/SideView.JPG)
 ![New Design](https://github.com/gitakshaygupta/COVID-19-Mask-Recycling/blob/master/Images/TopView.JPG)
 ![New Design](https://github.com/gitakshaygupta/COVID-19-Mask-Recycling/blob/master/Images/FrontView.JPG)
