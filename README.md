@@ -1,6 +1,24 @@
 # COVID-19-Mask-Recycling
 This repository contains all the information and designs for prototyping sterilization box for recycling face masks.
 
+# Latest design:
+![New Design](https://github.com/gitakshaygupta/COVID-19-Mask-Recycling/blob/master/Images/New%20Design.JPG)
+
+![New Design](https://github.com/gitakshaygupta/COVID-19-Mask-Recycling/blob/master/Images/SideView.JPG)
+![New Design](https://github.com/gitakshaygupta/COVID-19-Mask-Recycling/blob/master/Images/TopView.JPG)
+![New Design](https://github.com/gitakshaygupta/COVID-19-Mask-Recycling/blob/master/Images/FrontView.JPG)
+
+2D Drawing of all the constructive elements:
+![New Design](https://github.com/gitakshaygupta/COVID-19-Mask-Recycling/blob/master/Images/2D%20Drawing%20of%20ALL%20elements.JPG)
+
+All design files can be found in this repository!
+More details on the prototype to follow soon.
+
+# First design (only for visualization):
+![Sterlization box](https://github.com/gitakshaygupta/COVID-19-Mask-Recycling/blob/master/Images/Box%20design%201.png?raw=true)
+
+# Context
+
 Face masks are a neccesity in this health crisis that is communicable and spreads mostly by inhaling the virus cells in the air. This project is to address the much needed effort in recycling these masks as they pose a serious threat of scarcity as well as to thier negative impact on the environment.
 
 We are looking at different options that have proven to be relatively effective as of now. Our main consideration is also to come up with something that is easy to use and impact huge masses all over the world.
@@ -44,7 +62,6 @@ https://en.wikipedia.org/wiki/Ultraviolet_germicidal_irradiation
 - https://www.battelle.org/newsroom/news-details/battelle-cleared-to-sterilize-n95-masks-at-max-capacity-operate-in-other-states-to-fight-coronavirus-ppe-shortage
 - https://edition.cnn.com/2020/03/27/health/n95-respirator-rewear-coronavirus-duke-trnd/index.html
 
-# First design (only for visualization):
-![Sterlization box](https://github.com/gitakshaygupta/COVID-19-Mask-Recycling/blob/master/Images/Box%20design%201.png?raw=true)
+
 
 More details on the design to follow soon.
